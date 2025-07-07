@@ -1,2 +1,0 @@
-# _redirects
-/ https://s.shopee.co.id/5fda4AbHx6 301!
